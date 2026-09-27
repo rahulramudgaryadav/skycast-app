@@ -1,0 +1,14 @@
+{
+  "name": "skycast-backend",
+  "version": "1.0.0",
+  "description": "SkyCast weather app with a real Node.js + Express + SQLite backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
